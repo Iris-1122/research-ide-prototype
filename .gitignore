@@ -6,3 +6,7 @@ __pycache__/
 
 __pycache__/
 *.pyc
+
+# python cache
+__pycache__/
+*.pyc
